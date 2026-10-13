@@ -1,0 +1,106 @@
+{
+  "all_pairs_faster": true,
+  "campaign_seconds": 539.2675852460015,
+  "cases": [
+    {
+      "baseline_cpu_median_seconds": 1.1231341830000003,
+      "baseline_median_seconds": 1.1231836750012008,
+      "baseline_rss_median_kib": 84392,
+      "bits": 128,
+      "candidate_cpu_median_seconds": 0.3223335439999999,
+      "candidate_median_seconds": 0.32234382599563105,
+      "candidate_rss_median_kib": 89472,
+      "direction": "forward",
+      "paired_speedup_median": 3.463175172828005,
+      "paired_speedup_range": [
+        3.1475186586172694,
+        3.5860393523340988
+      ],
+      "rss_median_percent_change": 6.01952791733813
+    },
+    {
+      "baseline_cpu_median_seconds": 1.1502407739999994,
+      "baseline_median_seconds": 1.1502874649959267,
+      "baseline_rss_median_kib": 98200,
+      "bits": 128,
+      "candidate_cpu_median_seconds": 0.33420246600000003,
+      "candidate_median_seconds": 0.33455491600034293,
+      "candidate_rss_median_kib": 100452,
+      "direction": "backward",
+      "paired_speedup_median": 3.4783749915449644,
+      "paired_speedup_range": [
+        3.319956861721951,
+        3.6056106444129403
+      ],
+      "rss_median_percent_change": 2.2932790224032606
+    },
+    {
+      "baseline_cpu_median_seconds": 1.7671533160000008,
+      "baseline_median_seconds": 1.7672440239985008,
+      "baseline_rss_median_kib": 203312,
+      "bits": 1024,
+      "candidate_cpu_median_seconds": 0.5338059949999998,
+      "candidate_median_seconds": 0.5338194889991428,
+      "candidate_rss_median_kib": 222500,
+      "direction": "forward",
+      "paired_speedup_median": 3.40322645076713,
+      "paired_speedup_range": [
+        3.1856701734775266,
+        3.507033595714707
+      ],
+      "rss_median_percent_change": 9.437711497599754
+    },
+    {
+      "baseline_cpu_median_seconds": 1.8110936099999995,
+      "baseline_median_seconds": 1.8112507010009722,
+      "baseline_rss_median_kib": 252380,
+      "bits": 1024,
+      "candidate_cpu_median_seconds": 0.5351408879999999,
+      "candidate_median_seconds": 0.5354447970021283,
+      "candidate_rss_median_kib": 261972,
+      "direction": "backward",
+      "paired_speedup_median": 3.382702962363033,
+      "paired_speedup_range": [
+        3.3358795237801804,
+        3.397571457461628
+      ],
+      "rss_median_percent_change": 3.8006181155400665
+    },
+    {
+      "baseline_cpu_median_seconds": 4.819580611000001,
+      "baseline_median_seconds": 4.8202254669959075,
+      "baseline_rss_median_kib": 585120,
+      "bits": 4096,
+      "candidate_cpu_median_seconds": 1.392244379000001,
+      "candidate_median_seconds": 1.3926038019999396,
+      "candidate_rss_median_kib": 648864,
+      "direction": "forward",
+      "paired_speedup_median": 3.4464745838757485,
+      "paired_speedup_range": [
+        3.234029268354535,
+        3.584304185301402
+      ],
+      "rss_median_percent_change": 10.894175553732577
+    },
+    {
+      "baseline_cpu_median_seconds": 5.390703820999999,
+      "baseline_median_seconds": 5.391627254997729,
+      "baseline_rss_median_kib": 749084,
+      "bits": 4096,
+      "candidate_cpu_median_seconds": 1.467398588,
+      "candidate_median_seconds": 1.4676954870010377,
+      "candidate_rss_median_kib": 780448,
+      "direction": "backward",
+      "paired_speedup_median": 3.7039619330026863,
+      "paired_speedup_range": [
+        3.332125273557433,
+        3.8122630080743956
+      ],
+      "rss_median_percent_change": 4.186980365352877
+    }
+  ],
+  "completed_utc": "2026-10-13T19:57:38.193873+00:00",
+  "quiet_window": "Known parallel Arena experiments, PDF builds and verifier/auditor jobs were paused during the timed campaign. Other host tenants were not observable.",
+  "raw_result_sha256": "b32e591679296a16c236d34baedbef13374c1d5d1a408eca2369f165f68817c6",
+  "status": "RECOMPUTED_CURRENT_SHARED_R480_RUNTIME_SUMMARY"
+}

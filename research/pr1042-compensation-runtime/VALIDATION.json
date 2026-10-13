@@ -1,0 +1,19 @@
+{
+  "all_pairs_faster": true,
+  "campaign_result_sha256": "b32e591679296a16c236d34baedbef13374c1d5d1a408eca2369f165f68817c6",
+  "construction_scope": "Exact PR1042 native word also selected unchanged under PR1094.",
+  "independent_audit_sha256": "9462232d18c47d99cedc251de43974928bb76493de6181da37b2bc51c12160df",
+  "matched_pairs": 30,
+  "normal_optimized_receipts_identical": true,
+  "paired_median_range": [
+    3.382702962363033,
+    3.7039619330026863
+  ],
+  "process_rss_median_percent_increase_range": [
+    2.2932790224032606,
+    10.894175553732577
+  ],
+  "samples": 60,
+  "scope": "Complete changed compensation panel arithmetic, including all Horner/basis work. No verifier, full supplier or multiplication runtime claim. RSS includes untimed oracle and validation.",
+  "status": "PASS_CURRENT_SHARED_R480_EXACT_ARITHMETIC_RUNTIME"
+}

@@ -1,0 +1,30 @@
+{
+  "after": 6191326493225576,
+  "baseline_invoice_sha256": "60bf25bdd0e425d9c1b9c45f6c9349aface6225a05661c5780e84573e1215fd6",
+  "before": 6466906000439144,
+  "candidate_invoice_sha256": "9653075f5bafcf885b0fe37d76dc44946e00d31233847fd9d03e8b1062556c2e",
+  "charged_prefix_bits": 512,
+  "fraction_saved": "34447438401696/808363250054893",
+  "kappa": "1672188119205421/1000000000000000000",
+  "percent_saved": "4.261381056023613158677977756758103200508",
+  "prefix_after": 399,
+  "prefix_before": 397,
+  "saved": 275579507213568,
+  "status": "PASS_STRICTLY_CHEAPER_CURRENT_PR1042_COMPLETE_INVOICE",
+  "unchanged_fields": [
+    "selected_local_paid_profile",
+    "provider_counts",
+    "complete_invocation_sweeps",
+    "bridge_sweeps",
+    "charged_prefix_bits",
+    "row_prefix_extra",
+    "helpers",
+    "centres",
+    "live",
+    "physical",
+    "physical_stock_identity",
+    "wrapper_elementary_factors_charged",
+    "factors_per_wrapper",
+    "compiler"
+  ]
+}

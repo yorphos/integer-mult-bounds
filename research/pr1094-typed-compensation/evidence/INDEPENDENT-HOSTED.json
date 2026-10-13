@@ -1,0 +1,113 @@
+{
+  "actual_artifact_sha256": {
+    "ASSEMBLY.json": "fe3c22bd4c99e0926bde906a4eb97741a6262ce71c6ffdf7269754aa0de38572",
+    "global/audit/PREFIX-AND-INVOICE.json": "12b860e06ecd87974362c0fb46c1d9307b918dcd1cfa32cc08848de2c6faef52",
+    "global/base/providers/gauge44/CANONICAL-WORD.json.gz": "d81b16bf26b55334a140b6e0ba0c07833a5e610cdb1e674c424a80b2c82ab4c8",
+    "global/base/providers/gauge44/LOCAL-PROGRAMS.json.gz": "f133b4c987d7ea220251fecdb52882cc5d1fb3078733edab1368082292f83442",
+    "global/hosted/GLOBAL-TEMPLATE.json.gz": "5747a18f9c4a659a48e56837955ec18c3e1411ebbd33c57f1133c1f015fe4efc"
+  },
+  "actual_helper_roles": 69120,
+  "actual_physical_stock": 14826,
+  "actual_prefix_bits": 399,
+  "baseline_binding": {
+    "baseline1042_result_sha256": "a19d34e19b50b2a1da1238da9f73549e34e25ca25255378def10b52b39cf08dd",
+    "baseline1094_artifacts": {
+      "ASSEMBLY.json": "90d7a8fb7cc4692d972d6b2670623b9a51cee5cf9c42a64443e649056288d6ee",
+      "REPLAY.json": "557ae7d26c330dcd0c257685d5209db92d686651d376e7c2308dba1fb8a1d50e",
+      "STAGES.json": "1e9000d0cd3408c33c13afebcdc405896ea130abc8cbf7733a47098d8ba1efc2",
+      "global/audit/PREFIX-AND-INVOICE.json": "fddc8cd9a06e39d584ccf5660a92477c6776d1f9f55b7b198ba5cbb24055cf3b",
+      "global/hosted/GLOBAL-TEMPLATE.json.gz": "8678ed9d2931c9a08130583feecadf489841ec84ecebc43ef7efa7547a5e4f06"
+    },
+    "kappa": "836330098538459/500000000000000000",
+    "native_ancestry_binding": {
+      "bound_reference_count": 29,
+      "excluded_fields": [
+        "slots/local/CLIFFORD-REVIEW.json#/seconds",
+        "slots/local/SCALAR-FRAME-AUDIT.json#/seconds"
+      ],
+      "normalized_content_sha256": {
+        "slots/local/CANONICAL-WORD.json.gz": "4ddb29fb9bc6f27e0c0fbfcf19a2a93a3496ad900d0f6d89059d0305c9576c0c",
+        "slots/local/CLIFFORD-REVIEW.json": "070c9cc7757b44005ecbd85a271e42bc5f896da9a8d0274251e147933353f295",
+        "slots/local/INDEPENDENT-LOCAL-REPLAY.json": "510c6ec28beb87ee4c854a6bd492c7de8155b815d306e770245b49a074ac4774",
+        "slots/local/LOCAL-PROGRAMS.json.gz": "9f41d53659e9be84e20c661560c5687abbf5cd0660cdecbe01ad5eb29e6b8ee3",
+        "slots/local/SCALAR-FRAME-AUDIT.json": "1f2c8f8a3aee9cd6ebe3fda473ccafb24b6f2626a218b21503e8ee52650eedcc",
+        "t16/ASSEMBLY.json": "198aed27a2f80c8309fcf56110ff8f809919df3f103b1b7bd522f949c4270357",
+        "t16/global/PLAN.json": "843101edd7eec689237c02979050e421b7ee9c7e33edf42fca9876396cbdb37d",
+        "t16/global/audit/ASYNC-AUDIT.json": "8b057c0e3d622e88284d714c7143efc60e3c7ae1285aeada04d46a2416249e05",
+        "t16/global/audit/OWNERS-AND-PROFILE.json": "07ab69350480dcd2aba12d8cd87fe84391832027caf2a6c803896a8125342392",
+        "t16/global/audit/PREFIX-AND-INVOICE.json": "6be10936750043ed43cc8a7208181b6e06247f0edea9c93e5e8f22d05dc15721",
+        "t16/global/hosted/GLOBAL-TEMPLATE.json.gz": "8abaa0b526b17e3816d5250542c56f2a7074f58aa03dd07e606ec93d940a9048"
+      },
+      "observed_artifact_sha256": {
+        "slots/local/CANONICAL-WORD.json.gz": "16bc0ebb04b4be6c0ade74badc6a0c0cdba4215eda86e4ff9f13abf8ecebd219",
+        "slots/local/CLIFFORD-REVIEW.json": "52362681ba9f8ab99805d0346425d09b8ff42e539b356c34eb6bc81cecf89974",
+        "slots/local/INDEPENDENT-LOCAL-REPLAY.json": "13dd18297162569532983db1a2ab67926b064330cd7edd3587e7b546b2dedf17",
+        "slots/local/LOCAL-PROGRAMS.json.gz": "241fde27d4e43f5a9cb6b128f9f76c5131a53d09f0371676163f914d0b0fef3a",
+        "slots/local/SCALAR-FRAME-AUDIT.json": "188b47a3717cdd3b3effeeb894a4ec8608508e08f03a19788c9bfb889ac7a9bf",
+        "t16/ASSEMBLY.json": "cbb266611e1cc0cdfdb16831c226b550b1801c1a36169aef6a841de2e22de2ed",
+        "t16/global/PLAN.json": "ec6574abe729baeffbf18020b8f9686cdf3e9f10710c84ce7c8cf0327ba88d5c",
+        "t16/global/audit/ASYNC-AUDIT.json": "65089250b579015c50579cd3f76a630a358476d127187ca4f7e6148cc965e94c",
+        "t16/global/audit/OWNERS-AND-PROFILE.json": "15836254e428b417fc67aa3cd9fcfd99e619028c68d9925e2993e3eb748e3c12",
+        "t16/global/audit/PREFIX-AND-INVOICE.json": "60bf25bdd0e425d9c1b9c45f6c9349aface6225a05661c5780e84573e1215fd6",
+        "t16/global/hosted/GLOBAL-TEMPLATE.json.gz": "2a0176b7595f445f355afe0ec7c3cf3642479c4752dd2dc17ffb7033c5571c60"
+      },
+      "observed_seconds": {
+        "slots/local/CLIFFORD-REVIEW.json": 163.94565928700467,
+        "slots/local/SCALAR-FRAME-AUDIT.json": 1.5360165269958088
+      },
+      "original_archive_member_sha256": {
+        "slots/local/CANONICAL-WORD.json.gz": "16bc0ebb04b4be6c0ade74badc6a0c0cdba4215eda86e4ff9f13abf8ecebd219",
+        "slots/local/CLIFFORD-REVIEW.json": "cb0e10a8b284f176526c17177e91186ce09aa3e88b4f6acc561051daa072b0d0",
+        "slots/local/INDEPENDENT-LOCAL-REPLAY.json": "13dd18297162569532983db1a2ab67926b064330cd7edd3587e7b546b2dedf17",
+        "slots/local/LOCAL-PROGRAMS.json.gz": "241fde27d4e43f5a9cb6b128f9f76c5131a53d09f0371676163f914d0b0fef3a",
+        "slots/local/SCALAR-FRAME-AUDIT.json": "0e2a979aae1b948e1bee6c49c218f3ce7d7df00814b3f53b3d0866497510a28b",
+        "t16/ASSEMBLY.json": "093f35445812ea96fe1bfe6a3af7d769cb7f274e08f4fb30f71a17ed1161e54e",
+        "t16/global/PLAN.json": "f6ac4c2f277b797b932ecb81eba3ec4eaf7a197faf4a8b8a9c349350cff7f52d",
+        "t16/global/audit/ASYNC-AUDIT.json": "4a101df262652b03df72862f999bfd177296b3f52bc3dd9426795dc4cdaafc0f",
+        "t16/global/audit/OWNERS-AND-PROFILE.json": "888d63e292eed39215fe9f1440b15018f71507e13132f0e02bf0c636d56908e6",
+        "t16/global/audit/PREFIX-AND-INVOICE.json": "0b4ef2b9713da47a00ed6a948ceb6074ed0108cae78a32ddd0dc0996c5c3bb75",
+        "t16/global/hosted/GLOBAL-TEMPLATE.json.gz": "73f47a1e60b1e4ea66dbca9a497c411c8e6adc7984e276a437a10a9a7a13b47a"
+      },
+      "status": "PASS_EXACT_SELECTED_BASELINE_WITH_BOUND_ELAPSED_TIMES"
+    },
+    "selected_data_sha256": {
+      "data/OWNERS.json.gz": "87902c528dfab7d503dcf8a784260e3ab6fb7424c418a1820f7261f25be7b6bc",
+      "data/PLAN.json": "7bd786ba8e66408f02aa9ef446eaf20c1bfe981ea2e4dd1e5a929f0aa7767bc0",
+      "data/SPEC.json": "8cb51f25a5da4a29d3783853025b73ff1f452429d4fdb30c599e598bcab0e71d"
+    },
+    "selected_main": "c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+    "source_files_checked": 180,
+    "source_manifest_sha256": "fe55cb2812dc863a4bcd9e6083474f7aa986d2095ef66ae210ba85b251fe86c9",
+    "status": "PASS_INDEPENDENT_SELECTED_PR1094_BASELINE"
+  },
+  "candidate_local_artifacts_sha256": {
+    "CANONICAL-WORD.json.gz": "d81b16bf26b55334a140b6e0ba0c07833a5e610cdb1e674c424a80b2c82ab4c8",
+    "LOCAL-PROGRAMS.json.gz": "f133b4c987d7ea220251fecdb52882cc5d1fb3078733edab1368082292f83442"
+  },
+  "charged_prefix_bits": 512,
+  "complete_calls": 144,
+  "complete_conservative_invoice_saved": 275579507213568,
+  "conservative_invoice_fraction_saved": "34447438401696/808363250054893",
+  "kappa": "836330098538459/500000000000000000",
+  "orientation_counts": {
+    "backward": 64,
+    "forward": 80
+  },
+  "paid_children_per_call": 3494,
+  "positive_outer_constraints": 47,
+  "real_primitives_per_orientation": {
+    "backward": 143054,
+    "forward": 143006
+  },
+  "retained_independent_physical_upper_bound": 14850,
+  "row_charge": 16469,
+  "scalar_macros_per_orientation": {
+    "backward": 15081,
+    "forward": 15081
+  },
+  "scope": "Current selected PR1094 packing with identical admitted R480 native interface and strictly cheaper complete compensation invoice. Current local arithmetic applicability follows exact word/program identities; no full multiplication-runtime or unconditional theorem claim.",
+  "selected_real_primitives_saved": 8029440,
+  "status": "PASS_INDEPENDENT_COMPLETE_PR1094_HOSTED_INVOICE",
+  "strict_invoice_checks": 9,
+  "unchanged_accounting_source_sha256": "dab0ee1ca6cd8aee4421dc2f267659add6c43d65457cb9dc3917d37302d127c0"
+}

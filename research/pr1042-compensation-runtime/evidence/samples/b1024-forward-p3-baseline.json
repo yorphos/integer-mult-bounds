@@ -1,0 +1,44 @@
+{
+  "affinity": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "arm": "baseline",
+  "baseline_source_sha256": "16bc0ebb04b4be6c0ade74badc6a0c0cdba4215eda86e4ff9f13abf8ecebd219",
+  "calls_timed": 1,
+  "candidate_source_sha256": "d81b16bf26b55334a140b6e0ba0c07833a5e610cdb1e674c424a80b2c82ab4c8",
+  "canonical_semantic_sha256": {
+    "baseline": "4ddb29fb9bc6f27e0c0fbfcf19a2a93a3496ad900d0f6d89059d0305c9576c0c",
+    "candidate": "86d6ef3ac6965351c4cb4892b85b12812a5a17a0668a8f247974b650a9ca80be"
+  },
+  "complex_coordinates_per_register": 512,
+  "cpu_seconds": [
+    1.70657427
+  ],
+  "direction": "forward",
+  "fixed_point_guard_bits": 2,
+  "input_magnitude_bits": 1024,
+  "input_seed": 20261016,
+  "logical_registers": 704,
+  "max_rss_kib": 203312,
+  "output_sha256": "d12d56e707b395434789ba265ff7e07712b97b41c6a3d81bc0bd52adbbb0f5dd",
+  "panel_macros": 7208,
+  "pid": 33,
+  "private_coefficient_registers": 1,
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "real_scalar_primitives_per_coordinate": 80400,
+  "real_scalar_primitives_per_invocation": 41164800,
+  "scope": "Full compensation panel arithmetic only. All binary-Horner coefficient work and basis preparation/restoration are timed. Parsing, input generation, allocation of input copies and correctness checks are outside timing. This is not the full PR1042 supplier or integer multiplication runtime.",
+  "status": "PASS_EXACT_COMPENSATION_EXECUTION",
+  "wall_seconds": [
+    1.7066622040001675
+  ],
+  "warmup_calls": 1
+}

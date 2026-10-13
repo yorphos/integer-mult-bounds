@@ -1,0 +1,36 @@
+{
+  "forward": {
+    "sha256": "7747d9c1d4d8248ebdffb858036c92f9bb2870175d9922cb1ef1d444fa29c7dd",
+    "events": 20155,
+    "scalar_macros": 15081,
+    "real_component_primitive_bound": 143006,
+    "paid_profile": {
+      "1": 2412,
+      "2": 418,
+      "3": 432,
+      "4": 142,
+      "5": 82,
+      "8": 8
+    },
+    "all_columns": 704,
+    "private_centers_cleared": true,
+    "private_coefficient_stream_cleared_after_each_macro": true
+  },
+  "backward": {
+    "sha256": "a52753109ed0d77fc16502c49e6fb7d84927796b1c4ec0a7ffb3ea2b28d783fa",
+    "events": 20155,
+    "scalar_macros": 15081,
+    "real_component_primitive_bound": 143054,
+    "paid_profile": {
+      "1": 2412,
+      "2": 418,
+      "3": 432,
+      "4": 142,
+      "5": 82,
+      "8": 8
+    },
+    "all_columns": 704,
+    "private_centers_cleared": true,
+    "private_coefficient_stream_cleared_after_each_macro": true
+  }
+}

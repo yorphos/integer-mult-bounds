@@ -1,0 +1,32 @@
+{
+  "checked_at_utc": "2026-10-13T19:47:41Z",
+  "claim_guidance": "Contribution is complete current R480 native/hosting/invoice integration with actual shared-native component runtime evidence. Target/helper basis-change mechanisms are prior work; no joint circuit optimum or general novelty claim.",
+  "related_prs": [
+    {
+      "head_sha": "803e080e181229a3af2196b7a13615c9d81ae10d",
+      "number": 1080,
+      "scope": "Historical U8 bi-forest, native local checks; not current R480/T16 complete hosted integration.",
+      "state": "open",
+      "title": "Construction: two-sided signed bi-forest U8 compensation saving 53,596 real primitives (seed 35, no new kappa)",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1080"
+    },
+    {
+      "head_sha": "5fb9a3d1ff67845c681233072a00d107e7084bd7",
+      "number": 1081,
+      "scope": "Historical PR917 CK helper mechanism/census, not current R480/T16 complete hosted integration.",
+      "state": "open",
+      "title": "Research: exact CK helper-matching floors under two scalar lowerings (no new kappa)",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1081"
+    },
+    {
+      "head_sha": "f971d1fa82ec55cbd22984a4d77e06a23b423504",
+      "number": 1116,
+      "scope": "Historical PR917 CK helper mechanism/census, not current R480/T16 complete hosted integration.",
+      "state": "open",
+      "title": "Construction: restored CK helper butterflies beat the single-shear scalar floor",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/pull/1116"
+    }
+  ],
+  "search_scope": "Top 20 updated open PR matches for compensation; targeted metadata read for three closest newly reviewed items. This is not an exhaustive novelty or priority proof.",
+  "search_url": "https://api.github.com/search/issues?q=repo%3ACrocSwap%2Finteger-mult-bounds%20is%3Apr%20is%3Aopen%20compensation&sort=updated&order=desc&per_page=20"
+}

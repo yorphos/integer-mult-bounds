@@ -1,0 +1,96 @@
+{
+  "baseline_word_sha256": "4ddb29fb9bc6f27e0c0fbfcf19a2a93a3496ad900d0f6d89059d0305c9576c0c",
+  "candidate_word_sha256": "86d6ef3ac6965351c4cb4892b85b12812a5a17a0668a8f247974b650a9ca80be",
+  "panels": {
+    "baseline": {
+      "backward": {
+        "arbitrary_columns": 705,
+        "coefficient_workspace_erased": true,
+        "complex_primitives_per_coordinate": 80400,
+        "exact_row_l1_peak": "34",
+        "guard_depth_witness": {
+          "coefficient": "1/4",
+          "input_column": 118,
+          "primitive": 16,
+          "register": [
+            "W",
+            0
+          ]
+        },
+        "logical_registers": 704,
+        "minimal_common_guard_bits": 2,
+        "positive_l1_peak": "34",
+        "primitive_count_for_512_complex_coordinates": 41164800,
+        "single_real_primitives": 40200,
+        "stored_intermediate_width_extra_over_payload_upper": 8
+      },
+      "forward": {
+        "arbitrary_columns": 705,
+        "coefficient_workspace_erased": true,
+        "complex_primitives_per_coordinate": 80400,
+        "exact_row_l1_peak": "34",
+        "guard_depth_witness": {
+          "coefficient": "1/4",
+          "input_column": 243,
+          "primitive": 16,
+          "register": [
+            "W",
+            0
+          ]
+        },
+        "logical_registers": 704,
+        "minimal_common_guard_bits": 2,
+        "positive_l1_peak": "34",
+        "primitive_count_for_512_complex_coordinates": 41164800,
+        "single_real_primitives": 40200,
+        "stored_intermediate_width_extra_over_payload_upper": 8
+      }
+    },
+    "candidate": {
+      "backward": {
+        "arbitrary_columns": 705,
+        "coefficient_workspace_erased": true,
+        "complex_primitives_per_coordinate": 24640,
+        "exact_row_l1_peak": "113/2",
+        "guard_depth_witness": {
+          "coefficient": "1/4",
+          "input_column": 114,
+          "primitive": 1004,
+          "register": [
+            "W",
+            0
+          ]
+        },
+        "logical_registers": 704,
+        "minimal_common_guard_bits": 2,
+        "positive_l1_peak": "208",
+        "primitive_count_for_512_complex_coordinates": 12615680,
+        "single_real_primitives": 12320,
+        "stored_intermediate_width_extra_over_payload_upper": 8
+      },
+      "forward": {
+        "arbitrary_columns": 705,
+        "coefficient_workspace_erased": true,
+        "complex_primitives_per_coordinate": 24640,
+        "exact_row_l1_peak": "85/2",
+        "guard_depth_witness": {
+          "coefficient": "1/4",
+          "input_column": 272,
+          "primitive": 1004,
+          "register": [
+            "W",
+            0
+          ]
+        },
+        "logical_registers": 704,
+        "minimal_common_guard_bits": 2,
+        "positive_l1_peak": "553/2",
+        "primitive_count_for_512_complex_coordinates": 12615680,
+        "single_real_primitives": 12320,
+        "stored_intermediate_width_extra_over_payload_upper": 8
+      }
+    }
+  },
+  "scope": "Exact primitive-prefix grid and worst-case growth, including coefficient work; not a runtime measurement.",
+  "status": "PASS_INDEPENDENT_PR1042_PANEL_GRID"
+}

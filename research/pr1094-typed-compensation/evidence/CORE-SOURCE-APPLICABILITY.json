@@ -1,0 +1,53 @@
+{
+  "all_1571_core_source_inputs_identical": true,
+  "changed_common_source_files": [],
+  "native_core_source_files_compared": 1565,
+  "observed_main": "c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+  "outside_current_manifest": [
+    "research/community-frontier1042-audit/RESULT.json",
+    "research/community-frontier1042-audit/SELECTED-SOURCE.json",
+    "scripts/verify_frontier1042.py",
+    "scripts/verify_frontier799.py",
+    "scripts/verify_frontier799_bindings.py",
+    "scripts/verify_replay_coverage.py"
+  ],
+  "outside_manifest_verified_by_public_git_blob": {
+    "research/community-frontier1042-audit/RESULT.json": {
+      "git_blob_sha": "8182d0818c0cbda7e52c10120f15b2c3a2c8f933",
+      "identical": true,
+      "local_git_blob_sha": "8182d0818c0cbda7e52c10120f15b2c3a2c8f933",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/research/community-frontier1042-audit/RESULT.json"
+    },
+    "research/community-frontier1042-audit/SELECTED-SOURCE.json": {
+      "git_blob_sha": "ab596b9f914f3ea0766b508e267582ec03a17edb",
+      "identical": true,
+      "local_git_blob_sha": "ab596b9f914f3ea0766b508e267582ec03a17edb",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/research/community-frontier1042-audit/SELECTED-SOURCE.json"
+    },
+    "scripts/verify_frontier1042.py": {
+      "git_blob_sha": "e4f129b0570865330e39ae11eafafe7167f7e374",
+      "identical": true,
+      "local_git_blob_sha": "e4f129b0570865330e39ae11eafafe7167f7e374",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/scripts/verify_frontier1042.py"
+    },
+    "scripts/verify_frontier799.py": {
+      "git_blob_sha": "c0d8b0d0c9c52ed17ad37cbf7dc88838daea203a",
+      "identical": true,
+      "local_git_blob_sha": "c0d8b0d0c9c52ed17ad37cbf7dc88838daea203a",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/scripts/verify_frontier799.py"
+    },
+    "scripts/verify_frontier799_bindings.py": {
+      "git_blob_sha": "ff902406c7acc760cb3ab5c9cf732768bdde1620",
+      "identical": true,
+      "local_git_blob_sha": "ff902406c7acc760cb3ab5c9cf732768bdde1620",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/scripts/verify_frontier799_bindings.py"
+    },
+    "scripts/verify_replay_coverage.py": {
+      "git_blob_sha": "66c9a4e98d5fbfc82a9f2dfe6117c5af0215a5b3",
+      "identical": true,
+      "local_git_blob_sha": "66c9a4e98d5fbfc82a9f2dfe6117c5af0215a5b3",
+      "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/scripts/verify_replay_coverage.py"
+    }
+  },
+  "pinned_source_manifest_sha256": "79b3de5db3dbcb9829789ba58e9e45758926031e2a7d80667a08429d369be53b"
+}

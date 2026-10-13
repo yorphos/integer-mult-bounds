@@ -1,0 +1,217 @@
+{
+  "benchmark_source_sha256": "ba53542f3941f2f99f7ee855c41f3ef835e6882d53daa8979c9f67f2e56180f2",
+  "records": [
+    {
+      "bound_samples": [
+        "b128-forward-p0-baseline.json",
+        "b128-forward-p0-candidate.json",
+        "b128-backward-p0-baseline.json",
+        "b128-backward-p0-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 128,
+      "input_sha256": "e0b0c689bdbba5d7221e9502e38c6d7ba3f6f7eea20ba3e6374bc0f91cc33598",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261013,
+      "stored_magnitude_bits": 130
+    },
+    {
+      "bound_samples": [
+        "b128-forward-p1-baseline.json",
+        "b128-forward-p1-candidate.json",
+        "b128-backward-p1-baseline.json",
+        "b128-backward-p1-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 128,
+      "input_sha256": "e40be26fa371f76e5ed1990eb7ea6c00a2efab14845ab229804da6ac3feefb2c",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261014,
+      "stored_magnitude_bits": 130
+    },
+    {
+      "bound_samples": [
+        "b128-forward-p2-baseline.json",
+        "b128-forward-p2-candidate.json",
+        "b128-backward-p2-baseline.json",
+        "b128-backward-p2-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 128,
+      "input_sha256": "6c1c81a72ea1f62541dcf30e7047631ddb764c4d990fc6e3afcc6bf5122c0146",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261015,
+      "stored_magnitude_bits": 130
+    },
+    {
+      "bound_samples": [
+        "b128-forward-p3-baseline.json",
+        "b128-forward-p3-candidate.json",
+        "b128-backward-p3-baseline.json",
+        "b128-backward-p3-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 128,
+      "input_sha256": "d9366c33c2ed04ec09d72c3dc2c338076fcd2c91963f4d6b30adfb914fa64500",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261016,
+      "stored_magnitude_bits": 130
+    },
+    {
+      "bound_samples": [
+        "b128-forward-p4-baseline.json",
+        "b128-forward-p4-candidate.json",
+        "b128-backward-p4-baseline.json",
+        "b128-backward-p4-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 128,
+      "input_sha256": "0647986f69bb4af625af3610746c8d24b799f9018b87e57e38c16872163e225b",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261017,
+      "stored_magnitude_bits": 130
+    },
+    {
+      "bound_samples": [
+        "b1024-forward-p0-baseline.json",
+        "b1024-forward-p0-candidate.json",
+        "b1024-backward-p0-baseline.json",
+        "b1024-backward-p0-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 1024,
+      "input_sha256": "7bb814182fccbf4fc009ccd1ede585d8324978bda4eac1e39e4b8d3c44a1d70a",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261013,
+      "stored_magnitude_bits": 1026
+    },
+    {
+      "bound_samples": [
+        "b1024-forward-p1-baseline.json",
+        "b1024-forward-p1-candidate.json",
+        "b1024-backward-p1-baseline.json",
+        "b1024-backward-p1-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 1024,
+      "input_sha256": "6e5c1ea940868d3991114513d6577bf3748e18438f8ed426fe7f3836033f3545",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261014,
+      "stored_magnitude_bits": 1026
+    },
+    {
+      "bound_samples": [
+        "b1024-forward-p2-baseline.json",
+        "b1024-forward-p2-candidate.json",
+        "b1024-backward-p2-baseline.json",
+        "b1024-backward-p2-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 1024,
+      "input_sha256": "6e7a8cdca5e3dbc896aaa46efb9e11aa537f0bc333e5ed855b8b3d8b18e5b5f5",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261015,
+      "stored_magnitude_bits": 1026
+    },
+    {
+      "bound_samples": [
+        "b1024-forward-p3-baseline.json",
+        "b1024-forward-p3-candidate.json",
+        "b1024-backward-p3-baseline.json",
+        "b1024-backward-p3-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 1024,
+      "input_sha256": "178a0e2f2bb1cfff2d8f12b79d239548aef1a2a2a155fb5eadffef3796ca9bda",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261016,
+      "stored_magnitude_bits": 1026
+    },
+    {
+      "bound_samples": [
+        "b1024-forward-p4-baseline.json",
+        "b1024-forward-p4-candidate.json",
+        "b1024-backward-p4-baseline.json",
+        "b1024-backward-p4-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 1024,
+      "input_sha256": "56510480f995bf60368145b30b06a0a208943caf702bc2fa6300ea238aca598b",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261017,
+      "stored_magnitude_bits": 1026
+    },
+    {
+      "bound_samples": [
+        "b4096-forward-p0-baseline.json",
+        "b4096-forward-p0-candidate.json",
+        "b4096-backward-p0-baseline.json",
+        "b4096-backward-p0-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 4096,
+      "input_sha256": "55e0a5ae9bcd209db9d995c63ab9ce65f4473c3baf1efef16cf92121af8e2299",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261013,
+      "stored_magnitude_bits": 4098
+    },
+    {
+      "bound_samples": [
+        "b4096-forward-p1-baseline.json",
+        "b4096-forward-p1-candidate.json",
+        "b4096-backward-p1-baseline.json",
+        "b4096-backward-p1-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 4096,
+      "input_sha256": "40943e0988c66ddf34f53db1a23c7dbfca946f63f587cac7b95dc02c534433d5",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261014,
+      "stored_magnitude_bits": 4098
+    },
+    {
+      "bound_samples": [
+        "b4096-forward-p2-baseline.json",
+        "b4096-forward-p2-candidate.json",
+        "b4096-backward-p2-baseline.json",
+        "b4096-backward-p2-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 4096,
+      "input_sha256": "627400dfd3057d7ec0da5175d680b1998d6012375744b7930cb263218000012a",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261015,
+      "stored_magnitude_bits": 4098
+    },
+    {
+      "bound_samples": [
+        "b4096-forward-p3-baseline.json",
+        "b4096-forward-p3-candidate.json",
+        "b4096-backward-p3-baseline.json",
+        "b4096-backward-p3-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 4096,
+      "input_sha256": "f67e520ff852be58f520f26319b319a57ec1b512318929868f1b8a8418feb546",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261016,
+      "stored_magnitude_bits": 4098
+    },
+    {
+      "bound_samples": [
+        "b4096-forward-p4-baseline.json",
+        "b4096-forward-p4-candidate.json",
+        "b4096-backward-p4-baseline.json",
+        "b4096-backward-p4-candidate.json"
+      ],
+      "gaussian_coordinates_per_register": 512,
+      "input_magnitude_bits": 4096,
+      "input_sha256": "3f3e760f3d3467d2c2895f719cdd381ab100c120a181d58d5cfc9661648f5ae8",
+      "registers_including_coefficient_work": 705,
+      "seed": 20261017,
+      "stored_magnitude_bits": 4098
+    }
+  ],
+  "scope": "Input hashes regenerated from the frozen deterministic generator and exact recorded seeds/configurations. Both arms and directions receive the same initial values in each matched pair. No timing was repeated or changed.",
+  "status": "PASS_REGENERATED_INPUT_IDENTITIES"
+}

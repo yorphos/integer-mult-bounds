@@ -1,0 +1,26 @@
+{
+  "available_cpu_affinity": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "captured_utc": "2026-10-13T19:46:44.670056+00:00",
+  "machine": "x86_64",
+  "notes": "Shared cloud executor; root coordinates a quiet window for our other known CPU jobs. No dedicated-hardware or full-multiplication runtime claim.",
+  "os_cpu_count": 9,
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "source_sha256": {
+    "benchmark.py": "ba53542f3941f2f99f7ee855c41f3ef835e6882d53daa8979c9f67f2e56180f2",
+    "fixture_hashes.py": "c635d8550f3c368f666cd31fe8e577b9a8abddd9ad14602114a805579c030b8a",
+    "independent/pr1042_independent.py": "ceec766f44e90c455b9eea31e3da1ed03585510458fbe0b4ac68c698725c3bd5",
+    "independent/verify_runtime.py": "4f56bfdeb7c3bc981d958de46e7dc800de2dcbcb3fd4944555bbcb00308f7fa1",
+    "run_pairs.py": "152424eec3c66c8f1ed15f9d55bb4901286d3d1bc4ea2a83508c36c30572d8bf"
+  }
+}

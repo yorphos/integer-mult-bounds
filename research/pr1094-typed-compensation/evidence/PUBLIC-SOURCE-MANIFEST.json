@@ -1,0 +1,52 @@
+{
+  "AGENTS.md": {
+    "git_blob_sha": "3490792ae5f118bfc4d954cabdfbf6497769f89a",
+    "sha256": "8d594f3d7d0618e58890d447f8c173e9160951e4f88b46e7d1379a6e69be0b07",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/AGENTS.md"
+  },
+  "CONTRIBUTING.md": {
+    "git_blob_sha": "3d3c3da7b09adbf93eaa2d6a2cac32bd7b5808a3",
+    "sha256": "47d2a47fdcc0fdcba1937fb6351feaaa9ed388fca13ad26fbaa6c313dc536034",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/CONTRIBUTING.md"
+  },
+  "certificates/selected-result.json": {
+    "git_blob_sha": "ae6a99f28aa468649eb66a361e764d769363bf11",
+    "sha256": "10b9e340fd8e354a37a0c4813c90e5de1dd42044b5f6aca4a3fc5a42b685fa32",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/certificates/selected-result.json"
+  },
+  "docs/research/community-batch1099-review.md": {
+    "git_blob_sha": "6cb6ec061a071a06a2d18cd4dc3e9a2b05d28099",
+    "sha256": "7e76d2c38e5fce30587835b7251df1430488ae4dd372611ef69a3f03f476b6cb",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/docs/research/community-batch1099-review.md"
+  },
+  "research/complex-t16-rare-pattern-exchanges/CANDIDATE.json": {
+    "git_blob_sha": "d80e967cb9ee9003ace480474399b4e5ee16f7d1",
+    "sha256": "e5fe28718bd517bbb2e9cd377778bf76bd89012b71e48889784ea45e4dfd7dd4",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/research/complex-t16-rare-pattern-exchanges/CANDIDATE.json"
+  },
+  "research/complex-t16-rare-pattern-exchanges/README.md": {
+    "git_blob_sha": "f205b7132243aedcb2aa85110a44f0c8cd1e4fe1",
+    "sha256": "da542711a6a3eb01ce1ebdf8f28a748e6195512687f61d003b95ac5ff281a7b2",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/research/complex-t16-rare-pattern-exchanges/README.md"
+  },
+  "research/complex-t16-rare-pattern-exchanges/SOURCE.json": {
+    "git_blob_sha": "1e43afd08c060373b6fde3c775c23c180cb6a794",
+    "sha256": "4cfd44cebfe88f4450294239fbea8feecb564338dc3027b76065227f5d19cb6f",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/research/complex-t16-rare-pattern-exchanges/SOURCE.json"
+  },
+  "research/complex-t16-rare-pattern-exchanges/data/SPEC.json": {
+    "git_blob_sha": "af013ccc2975d9d575d116f8a463cc947f220c8d",
+    "sha256": "8cb51f25a5da4a29d3783853025b73ff1f452429d4fdb30c599e598bcab0e71d",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/research/complex-t16-rare-pattern-exchanges/data/SPEC.json"
+  },
+  "research/complex-t16-rare-pattern-exchanges/verify.py": {
+    "git_blob_sha": "9d471cf90835bc91d32bb0216c2bb867011a7420",
+    "sha256": "b8c2f76b305c5c9ceb42df203deef564857d17f1f8182d0745dda9ab96e3d4de",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/research/complex-t16-rare-pattern-exchanges/verify.py"
+  },
+  "scripts/verify_frontier1094.py": {
+    "git_blob_sha": "96e6c1386bd052b9bcaf136d934406f3f0c3f777",
+    "sha256": "c7e20f59968ed5736fb859735de4de207de3418083e37012310ebcded946b949",
+    "url": "https://github.com/CrocSwap/integer-mult-bounds/blob/c0e3631dc24e3c24a861f7d3d79e0608481cccec/scripts/verify_frontier1094.py"
+  }
+}

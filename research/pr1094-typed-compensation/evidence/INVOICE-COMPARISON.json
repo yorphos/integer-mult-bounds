@@ -1,0 +1,14 @@
+{
+  "after": 6191326493225576,
+  "baseline_invoice_sha256": "fddc8cd9a06e39d584ccf5660a92477c6776d1f9f55b7b198ba5cbb24055cf3b",
+  "before": 6466906000439144,
+  "candidate_invoice_sha256": "12b860e06ecd87974362c0fb46c1d9307b918dcd1cfa32cc08848de2c6faef52",
+  "charged_prefix_bits": 512,
+  "fraction_saved": "34447438401696/808363250054893",
+  "kappa": "836330098538459/500000000000000000",
+  "percent_saved": "4.261381056023613158677977756758103200508",
+  "prefix_after": 399,
+  "prefix_before": 397,
+  "saved": 275579507213568,
+  "status": "PASS_CHEAPER_CURRENT_PR1094_COMPLETE_INVOICE"
+}

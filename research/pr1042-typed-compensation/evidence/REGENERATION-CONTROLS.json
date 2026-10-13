@@ -1,0 +1,60 @@
+{
+  "controls_rejected": [
+    {
+      "name": "changed_native_exact_columns",
+      "reason": "exact selected baseline content apart from bound elapsed times: slots/local/INDEPENDENT-LOCAL-REPLAY.json"
+    },
+    {
+      "name": "changed_native_payload",
+      "reason": "exact selected baseline content apart from bound elapsed times: slots/local/CANONICAL-WORD.json.gz"
+    },
+    {
+      "name": "changed_review_mathematics",
+      "reason": "exact selected baseline content apart from bound elapsed times: slots/local/CLIFFORD-REVIEW.json"
+    },
+    {
+      "name": "changed_review_source",
+      "reason": "exact selected baseline content apart from bound elapsed times: slots/local/SCALAR-FRAME-AUDIT.json"
+    },
+    {
+      "name": "negative_seconds",
+      "reason": "finite nonnegative baseline seconds: slots/local/CLIFFORD-REVIEW.json"
+    },
+    {
+      "name": "nonfinite_seconds",
+      "reason": "finite nonnegative baseline seconds: slots/local/SCALAR-FRAME-AUDIT.json"
+    },
+    {
+      "name": "boolean_seconds",
+      "reason": "finite nonnegative baseline seconds: slots/local/SCALAR-FRAME-AUDIT.json"
+    },
+    {
+      "name": "extra_timing_field",
+      "reason": "exact selected baseline content apart from bound elapsed times: slots/local/CLIFFORD-REVIEW.json"
+    },
+    {
+      "name": "unbound_plan_reference",
+      "reason": "actual baseline dependency: t16/global/PLAN.json/provider_registry/gauge44/artifact_sha256/CLIFFORD-REVIEW.json"
+    },
+    {
+      "name": "unbound_template_reference",
+      "reason": "actual baseline dependency: t16/global/hosted/GLOBAL-TEMPLATE.json.gz/async_schedule/source_plan_sha256"
+    },
+    {
+      "name": "coherently_rehashed_owner_corruption",
+      "reason": "exact selected baseline content apart from bound elapsed times: t16/global/hosted/GLOBAL-TEMPLATE.json.gz"
+    },
+    {
+      "name": "coherently_rehashed_profile_corruption",
+      "reason": "exact selected baseline content apart from bound elapsed times: t16/ASSEMBLY.json"
+    },
+    {
+      "name": "coherently_rehashed_numeric_corruption",
+      "reason": "exact selected baseline content apart from bound elapsed times: t16/global/audit/PREFIX-AND-INVOICE.json"
+    }
+  ],
+  "original_baseline_unchanged": true,
+  "valid_elapsed_time_refresh_accepted": true,
+  "valid_native_recompression_accepted": true,
+  "valid_program_recompression_accepted": true
+}

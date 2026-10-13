@@ -1,0 +1,95 @@
+{
+  "all_30_pairs_faster": true,
+  "audit_source_sha256": "b16b8a42a4b06e03c3c583c06734a1c1c3132de4e17e9c72929f6d79025e8e64",
+  "campaign_sha256": "b32e591679296a16c236d34baedbef13374c1d5d1a408eca2369f165f68817c6",
+  "fixture_inputs": [
+    {
+      "bits": 128,
+      "input_sha256": "e0b0c689bdbba5d7221e9502e38c6d7ba3f6f7eea20ba3e6374bc0f91cc33598",
+      "seed": 20261013
+    },
+    {
+      "bits": 128,
+      "input_sha256": "e40be26fa371f76e5ed1990eb7ea6c00a2efab14845ab229804da6ac3feefb2c",
+      "seed": 20261014
+    },
+    {
+      "bits": 128,
+      "input_sha256": "6c1c81a72ea1f62541dcf30e7047631ddb764c4d990fc6e3afcc6bf5122c0146",
+      "seed": 20261015
+    },
+    {
+      "bits": 128,
+      "input_sha256": "d9366c33c2ed04ec09d72c3dc2c338076fcd2c91963f4d6b30adfb914fa64500",
+      "seed": 20261016
+    },
+    {
+      "bits": 128,
+      "input_sha256": "0647986f69bb4af625af3610746c8d24b799f9018b87e57e38c16872163e225b",
+      "seed": 20261017
+    },
+    {
+      "bits": 1024,
+      "input_sha256": "7bb814182fccbf4fc009ccd1ede585d8324978bda4eac1e39e4b8d3c44a1d70a",
+      "seed": 20261013
+    },
+    {
+      "bits": 1024,
+      "input_sha256": "6e5c1ea940868d3991114513d6577bf3748e18438f8ed426fe7f3836033f3545",
+      "seed": 20261014
+    },
+    {
+      "bits": 1024,
+      "input_sha256": "6e7a8cdca5e3dbc896aaa46efb9e11aa537f0bc333e5ed855b8b3d8b18e5b5f5",
+      "seed": 20261015
+    },
+    {
+      "bits": 1024,
+      "input_sha256": "178a0e2f2bb1cfff2d8f12b79d239548aef1a2a2a155fb5eadffef3796ca9bda",
+      "seed": 20261016
+    },
+    {
+      "bits": 1024,
+      "input_sha256": "56510480f995bf60368145b30b06a0a208943caf702bc2fa6300ea238aca598b",
+      "seed": 20261017
+    },
+    {
+      "bits": 4096,
+      "input_sha256": "55e0a5ae9bcd209db9d995c63ab9ce65f4473c3baf1efef16cf92121af8e2299",
+      "seed": 20261013
+    },
+    {
+      "bits": 4096,
+      "input_sha256": "40943e0988c66ddf34f53db1a23c7dbfca946f63f587cac7b95dc02c534433d5",
+      "seed": 20261014
+    },
+    {
+      "bits": 4096,
+      "input_sha256": "627400dfd3057d7ec0da5175d680b1998d6012375744b7930cb263218000012a",
+      "seed": 20261015
+    },
+    {
+      "bits": 4096,
+      "input_sha256": "f67e520ff852be58f520f26319b319a57ec1b512318929868f1b8a8418feb546",
+      "seed": 20261016
+    },
+    {
+      "bits": 4096,
+      "input_sha256": "3f3e760f3d3467d2c2895f719cdd381ab100c120a181d58d5cfc9661648f5ae8",
+      "seed": 20261017
+    }
+  ],
+  "fixtures_sha256": "069375c82b6ffb0643a1147ca3665feaa00fa1f1309e2243e8b5b19a014e1223",
+  "observed_pair_speedup_range": [
+    3.1475186586172694,
+    3.8122630080743956
+  ],
+  "sample_count": 60,
+  "scope": "Input hashes independently regenerated after timing from the frozen generator protocol, never represented as captured during timing. RSS includes untimed correctness/oracle work and is not isolated kernel memory.",
+  "status": "PASS_INDEPENDENT_RUNTIME_FIXTURES_CPU_AND_RSS",
+  "summary_sha256": "7f2ebe5119fa36978a0ac26d4c089007b778499da7d47252ec14d70891059a7b",
+  "whole_process_median_rss_increase_percent_range": [
+    2.2932790224032606,
+    10.894175553732577
+  ]
+}

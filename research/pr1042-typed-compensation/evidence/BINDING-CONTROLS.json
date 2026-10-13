@@ -1,0 +1,19 @@
+{
+  "fixtures_preserved": true,
+  "optimized_driver_rejected": true,
+  "positive_before_after": true,
+  "rejected_controls": {
+    "baseline_failed_stage": "Baseline stage failed",
+    "baseline_missing_artifact": "Exact selected baseline artifact inventory",
+    "baseline_wrong_ancestry_mode": "Declared ancestry replay mode",
+    "baseline_wrong_stage_source": "Baseline stage source changed",
+    "changed_original_invoice_code": "Prepared code/data changed: code/invoice_allcold.py",
+    "extra_unbound_importable_file": "Exact prepared package file inventory",
+    "plan_call_binding_with_updated_digest": "Recomputed provider-only PLAN",
+    "plan_geometry_with_updated_digest": "Recomputed provider-only PLAN",
+    "spec_prefix_undercharge_with_updated_digest": "Recomputed strict provider-only SPEC",
+    "spec_primitive_undercount_with_updated_digest": "Recomputed strict provider-only SPEC",
+    "spec_profile_with_updated_digest": "Recomputed strict provider-only SPEC"
+  },
+  "status": "PASS_PR1042_ACTUAL_FILE_BINDING_CONTROLS"
+}

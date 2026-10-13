@@ -1,0 +1,105 @@
+{
+  "audited_source_head": "0fc329d0bec93ca7cd288eaea1295172e8789810",
+  "compare": {
+    "ahead_by": 2,
+    "base": "c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+    "base_commit": {
+      "html_url": "https://github.com/CrocSwap/integer-mult-bounds/commit/c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+      "sha": "c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+      "url": "https://api.github.com/repos/CrocSwap/integer-mult-bounds/commits/c0e3631dc24e3c24a861f7d3d79e0608481cccec"
+    },
+    "behind_by": 0,
+    "files": [
+      {
+        "additions": 15,
+        "changes": 15,
+        "deletions": 0,
+        "filename": "AGENTS.md",
+        "previous_filename": null,
+        "status": "modified"
+      },
+      {
+        "additions": 8,
+        "changes": 8,
+        "deletions": 0,
+        "filename": "CONTRIBUTING.md",
+        "previous_filename": null,
+        "status": "modified"
+      },
+      {
+        "additions": 3,
+        "changes": 3,
+        "deletions": 0,
+        "filename": "README.md",
+        "previous_filename": null,
+        "status": "modified"
+      },
+      {
+        "additions": 88,
+        "changes": 101,
+        "deletions": 13,
+        "filename": "autoresearch.md",
+        "previous_filename": null,
+        "status": "modified"
+      },
+      {
+        "additions": 2,
+        "changes": 2,
+        "deletions": 0,
+        "filename": "docs/research/agent-task-catalog.json",
+        "previous_filename": null,
+        "status": "modified"
+      },
+      {
+        "additions": 59,
+        "changes": 59,
+        "deletions": 0,
+        "filename": "docs/research/research-priority-log.md",
+        "previous_filename": null,
+        "status": "added"
+      },
+      {
+        "additions": 8,
+        "changes": 8,
+        "deletions": 0,
+        "filename": "scripts/choose_research_task.py",
+        "previous_filename": null,
+        "status": "modified"
+      },
+      {
+        "additions": 18,
+        "changes": 20,
+        "deletions": 2,
+        "filename": "tests/test_research_assignment.py",
+        "previous_filename": null,
+        "status": "modified"
+      }
+    ],
+    "head": "1b59b624d21924f8e3537cdc1ac52d3be6eda2fe",
+    "merge_base_commit": {
+      "html_url": "https://github.com/CrocSwap/integer-mult-bounds/commit/c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+      "sha": "c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+      "url": "https://api.github.com/repos/CrocSwap/integer-mult-bounds/commits/c0e3631dc24e3c24a861f7d3d79e0608481cccec"
+    },
+    "repository_full_name": "CrocSwap/integer-mult-bounds",
+    "status": "ahead",
+    "too_large": null,
+    "total_commits": 2
+  },
+  "construction_pin": "c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+  "kappa": "836330098538459/500000000000000000",
+  "observed_at_utc": "2026-10-13T20:03:55Z",
+  "record_scope": "Finite composition under inherited all-size/compiler, common-label/mutable-source, whole-call hosting, precision/tape, analytic and bit H1-H5 assumptions. Not a full Lean multiplication theorem.",
+  "reproduce": "make frontier1094-verify",
+  "selected_pr": 1094,
+  "selected_record_git_blob": "ae6a99f28aa468649eb66a361e764d769363bf11",
+  "selected_record_sha256": "10b9e340fd8e354a37a0c4813c90e5de1dd42044b5f6aca4a3fc5a42b685fa32",
+  "source_applicability": {
+    "all_inherited_core_inputs_matched_at_construction_pin": 1571,
+    "core_comparison_receipt_sha256": "56621e1496b12d3beaed4f3e7ed042836bd8c793723710fd7347923953e73b3d",
+    "later_diff_changes_only_unconsumed_workflow_documentation_files": true,
+    "status": "PASS_CURRENT_SELECTED_SOURCE_APPLICABILITY"
+  },
+  "upstream_head": "1b59b624d21924f8e3537cdc1ac52d3be6eda2fe",
+  "upstream_tree": "f19c518d50b8b4c9edbd75a5979e69d38cb5a1f3"
+}

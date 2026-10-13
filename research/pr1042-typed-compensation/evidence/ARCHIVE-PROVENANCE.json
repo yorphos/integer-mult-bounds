@@ -1,0 +1,31 @@
+{
+  "R": 480,
+  "actual_helper_roles": 69120,
+  "actual_physical_stock": 14826,
+  "archive_bytes": 19299540,
+  "archive_git_blob_sha1": "6f4dc6fe7631d8aacf8081fcaecf32197181685b",
+  "archive_sha256": "22c3f4dce4b897a1d423d1388801933e288b6a6b1906cb15e1b16a5eb68db754",
+  "baseline_local_path_in_archive": "slots/local",
+  "baseline_prefix_bits": 397,
+  "bound_replay_artifacts": 457,
+  "canonical_semantic_sha256": "4ddb29fb9bc6f27e0c0fbfcf19a2a93a3496ad900d0f6d89059d0305c9576c0c",
+  "charged_prefix_bits": 512,
+  "complete_calls": 144,
+  "conservative_invoice": 6466906000439144,
+  "logical_registers": 704,
+  "orientation_counts": {
+    "backward": 64,
+    "forward": 80
+  },
+  "panel_macros": 7208,
+  "physical_reserve_note": "Original indep16.py retains R=504 in its conservative private stock/namespace bound. Actual hosted geometry and invoice use R=480; both give2642 stock bits and row16469. No reserve was lowered.",
+  "retained_independent_physical_upper_bound": 14850,
+  "safe_exact_regular_members": 458,
+  "selected_commit": "ba82555c64e1879e4b7decce28186f208fcb8262",
+  "selected_kappa": "1672188119205421/1000000000000000000",
+  "selected_record_url": "https://github.com/CrocSwap/integer-mult-bounds/blob/ba82555c64e1879e4b7decce28186f208fcb8262/certificates/selected-result.json",
+  "stale_repository_evidence_warning": "research/gauge44-slots-t16/evidence/local is inherited R492 data, not this selected replay; the actual selected canonical pin rejects it.",
+  "status": "PASS_INDEPENDENT_ACTUAL_SELECTED_PR1042_ARCHIVE_BINDING",
+  "touched_helpers": 240,
+  "touched_targets": 104
+}

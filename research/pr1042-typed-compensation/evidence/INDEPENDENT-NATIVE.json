@@ -1,0 +1,145 @@
+{
+  "artifact_hash_convention": "SHA256 of canonical JSON semantic payload, independent of gzip bytes",
+  "baseline_artifacts": {
+    "CANONICAL-WORD.json.gz": "4ddb29fb9bc6f27e0c0fbfcf19a2a93a3496ad900d0f6d89059d0305c9576c0c",
+    "LOCAL-PROGRAMS.json.gz": "9f41d53659e9be84e20c661560c5687abbf5cd0660cdecbe01ad5eb29e6b8ee3"
+  },
+  "baseline_word_sha256": "4ddb29fb9bc6f27e0c0fbfcf19a2a93a3496ad900d0f6d89059d0305c9576c0c",
+  "boundary": {
+    "all_noncompensation_fields_and_events_unchanged": true,
+    "every_touched_helper_ends_full_and_is_unwrapped": true,
+    "every_touched_register_starts_zero": true,
+    "touched_helpers": 240,
+    "touched_targets": 104
+  },
+  "candidate_artifacts": {
+    "CANONICAL-WORD.json.gz": "86d6ef3ac6965351c4cb4892b85b12812a5a17a0668a8f247974b650a9ca80be",
+    "LOCAL-PROGRAMS.json.gz": "1f42fef08f97894c403d1ab45d824fd96f0b25ccae7dbd90981a20368dfeeaf1"
+  },
+  "candidate_program_sha256": {
+    "backward": "a52753109ed0d77fc16502c49e6fb7d84927796b1c4ec0a7ffb3ea2b28d783fa",
+    "forward": "7747d9c1d4d8248ebdffb858036c92f9bb2870175d9922cb1ef1d444fa29c7dd"
+  },
+  "candidate_word_sha256": "86d6ef3ac6965351c4cb4892b85b12812a5a17a0668a8f247974b650a9ca80be",
+  "columns_per_orientation": 713,
+  "controls_rejected": [
+    "panel_sign",
+    "panel_nondyadic",
+    "panel_frame",
+    "missing_target_prepare",
+    "missing_helper_restore",
+    "identity_pair_before_cold_wrapper",
+    "identity_pair_at_nonzero_entrance",
+    "source_data_write",
+    "register_alias",
+    "boolean_register",
+    "zero_denominator",
+    "changed_precondition",
+    "changed_geometry",
+    "changed_paid_profile",
+    "changed_tail",
+    "literal_panel_binding_forward",
+    "literal_panel_binding_backward",
+    "removed_non_scalar_child",
+    "unbound_baseline"
+  ],
+  "dirty_helpers_restored": 480,
+  "full_inherited_binary_horner": {
+    "baseline": {
+      "backward": {
+        "all_arbitrary_columns": 713,
+        "all_logical_helpers_restored": true,
+        "complex_real_primitives": 198814,
+        "exact_prefix_l1": "1154896",
+        "logical_columns": 704,
+        "max_exact_fractional_bits": 17,
+        "positive_prefix_l1_upper": "14824960514781440791821/64",
+        "primitive_histogram": {
+          "add": 38981,
+          "clear": 37956,
+          "scale": 22470
+        },
+        "primitive_stream_sha256": "23a6f01efaa4ccbb80c8a5e1732a322127d77c49b1e113d9fc28a9d5239aafb6",
+        "private_center_and_coefficient_work_erased": true,
+        "private_columns": 9,
+        "private_input_semantics": "erased, not restored",
+        "single_real_primitives": 99407
+      },
+      "forward": {
+        "all_arbitrary_columns": 713,
+        "all_logical_helpers_restored": true,
+        "complex_real_primitives": 198766,
+        "exact_prefix_l1": "131088",
+        "logical_columns": 704,
+        "max_exact_fractional_bits": 4,
+        "positive_prefix_l1_upper": "2765345294379392599/1024",
+        "primitive_histogram": {
+          "add": 38965,
+          "clear": 37940,
+          "copy": 8,
+          "scale": 22470
+        },
+        "primitive_stream_sha256": "a837a65adf6ec452d91e67b9d8ed52e1a112fb98fb6a2326be6bb010a65033f9",
+        "private_center_and_coefficient_work_erased": true,
+        "private_columns": 9,
+        "private_input_semantics": "erased, not restored",
+        "single_real_primitives": 99383
+      }
+    },
+    "candidate": {
+      "backward": {
+        "all_arbitrary_columns": 713,
+        "all_logical_helpers_restored": true,
+        "complex_real_primitives": 143054,
+        "exact_prefix_l1": "1154896",
+        "logical_columns": 704,
+        "max_exact_fractional_bits": 17,
+        "positive_prefix_l1_upper": "64903365179526577260943/64",
+        "primitive_histogram": {
+          "add": 29751,
+          "clear": 28732,
+          "scale": 13044
+        },
+        "primitive_stream_sha256": "016da9c9719138dd8ef146c2ff48a243f46cf8bc4ac6f31e75f9ab4eb17ac57c",
+        "private_center_and_coefficient_work_erased": true,
+        "private_columns": 9,
+        "private_input_semantics": "erased, not restored",
+        "single_real_primitives": 71527
+      },
+      "forward": {
+        "all_arbitrary_columns": 713,
+        "all_logical_helpers_restored": true,
+        "complex_real_primitives": 143006,
+        "exact_prefix_l1": "131088",
+        "logical_columns": 704,
+        "max_exact_fractional_bits": 4,
+        "positive_prefix_l1_upper": "16246969704632878467/4096",
+        "primitive_histogram": {
+          "add": 29735,
+          "clear": 28716,
+          "copy": 8,
+          "scale": 13044
+        },
+        "primitive_stream_sha256": "17eefedf378d328845334922ae4c3f80cad2f9d778d9388b5b9f9ff250877f44",
+        "private_center_and_coefficient_work_erased": true,
+        "private_columns": 9,
+        "private_input_semantics": "erased, not restored",
+        "single_real_primitives": 71503
+      }
+    }
+  },
+  "orientations": 2,
+  "panel": {
+    "backward": {
+      "arbitrary_columns": 592,
+      "exact_endpoint_equal": true
+    },
+    "forward": {
+      "arbitrary_columns": 592,
+      "exact_endpoint_equal": true
+    }
+  },
+  "private_inputs_erased": 9,
+  "scope": "Finite typed substitution and inherited lowering. Native wrappers, physical owner hosting, global invoices, precision and assembly are separately checked by the unchanged production chain.",
+  "status": "PASS_INDEPENDENT_PR1042_TYPED_COMPENSATION"
+}

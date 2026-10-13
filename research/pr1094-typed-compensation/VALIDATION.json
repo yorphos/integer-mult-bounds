@@ -1,0 +1,85 @@
+{
+  "base_commit": "c0e3631dc24e3c24a861f7d3d79e0608481cccec",
+  "baseline_current_hosting_fresh": true,
+  "candidate_current_hosting_fresh": true,
+  "changed_current_source_files": [
+    "data/PLAN.json",
+    "data/SPEC-T8.json",
+    "data/SPEC.json",
+    "data/T8/PLAN.json"
+  ],
+  "command": "python -B research/pr1094-typed-compensation/verify.py --provider-work PROVIDER --work CURRENT",
+  "environment": {
+    "assertions_required": true,
+    "known_unrun_mode": "The combined no-reuse default command was not separately repeated. All retained ancestry was freshly completed and source/artifact rebound; each current construction and hosting stage was then rebuilt. Used commands below identify reuse explicitly.",
+    "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+    "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+    "source_materialization": "Isolated source checkout plus immutable public-source overlays. All 1571 inherited consumed inputs were checked unchanged at c0e3631d; exact package/file hashes, rather than a checkout HEAD label, bind the tests."
+  },
+  "finite_invoice_checks": 9,
+  "improvement": {
+    "after": 6191326493225576,
+    "baseline_invoice_sha256": "fddc8cd9a06e39d584ccf5660a92477c6776d1f9f55b7b198ba5cbb24055cf3b",
+    "before": 6466906000439144,
+    "candidate_invoice_sha256": "12b860e06ecd87974362c0fb46c1d9307b918dcd1cfa32cc08848de2c6faef52",
+    "charged_prefix_bits": 512,
+    "fraction_saved": "34447438401696/808363250054893",
+    "kappa": "836330098538459/500000000000000000",
+    "percent_saved": "4.261381056023613158677977756758103200508",
+    "prefix_after": 399,
+    "prefix_before": 397,
+    "saved": 275579507213568,
+    "status": "PASS_CHEAPER_CURRENT_PR1094_COMPLETE_INVOICE"
+  },
+  "independent_controls": 18,
+  "lead_binding_controls": 10,
+  "normal_optimized_independent_receipts_identical": true,
+  "optimized_entry_rejected_before_output": true,
+  "original_controls": {
+    "admission": 69,
+    "bit_supplier": 12,
+    "controller": 15,
+    "independent_t16": 6
+  },
+  "outer_constraints": 47,
+  "own_source_sha256": {
+    "bridge.py": "a1556f5864f9a26ba5f297620a49c7c5b56b294d03441e08dbf85442a7a238dc",
+    "independent/check_hosted.py": "e3c0d30f670ee9d656b4c74a85a1e4f62a177b5b9c40e357a634c21444a3f0d4",
+    "independent/test_hosted.py": "54a6ea18f64beee351268bb45b252a2c6114e250e8342c226655fa0dfaf663e5",
+    "test_bindings.py": "fb51570af501afeecd5e00be66e68a81dd2c5ce5ec780e2bc2156b3c56d9d31e",
+    "verify.py": "09e6b3c99da6e16e05c5ccd4d0af4510f8cf8ec00713998ea39170474604b0da"
+  },
+  "publication_base": "1b59b624d21924f8e3537cdc1ac52d3be6eda2fe",
+  "publication_selected_record_blob": "ae6a99f28aa468649eb66a361e764d769363bf11",
+  "publication_tree": "f19c518d50b8b4c9edbd75a5979e69d38cb5a1f3",
+  "raw_result_sha256": "a5348008fa61e6c38bca4b52a1e1448349b7a02e4a24e619ea5d0c7a966ae7aa",
+  "reused_provider_result_sha256": "b49d91f63e3364d82f4b775389f37cc455fe1029baa2857fd2880dcfd8b25341",
+  "shared_native_runtime": "See ../pr1042-compensation-runtime/evidence; exact shared native identity is in evidence/NATIVE-APPLICABILITY.json.",
+  "stages": [
+    {
+      "exit_code": 0,
+      "log_sha256": "4f27af83059d7cdc837ffa91048426136ca56bbb0c000f507e4b1a5d128f6660",
+      "name": "current-original-hosting",
+      "seconds": 44.996,
+      "source": "research/complex-t16-rare-pattern-exchanges/verify.py",
+      "source_sha256": "b8c2f76b305c5c9ceb42df203deef564857d17f1f8182d0745dda9ab96e3d4de"
+    },
+    {
+      "exit_code": 0,
+      "log_sha256": "bc207656754223143571a95c5ef81f45955d3a3f1dfb95cbc13f22d156f94c64",
+      "name": "current-candidate-hosting",
+      "seconds": 41.839,
+      "source": "$REPRO_ROOT/pr1094-typed-final/preparation/package/verify_t16.py",
+      "source_sha256": "050e2dfba59911b8f29fd94422833d421367a0ad01c5e4ae916a75a235ee5e46"
+    },
+    {
+      "exit_code": 0,
+      "log_sha256": "f310301fde20faa1192a8acbd734a8a72c8d9ed7058955e7b5b54a336326b290",
+      "name": "independent-current-hosting",
+      "seconds": 8.096,
+      "source": "research/pr1094-typed-compensation/independent/check_hosted.py",
+      "source_sha256": "e3c0d30f670ee9d656b4c74a85a1e4f62a177b5b9c40e357a634c21444a3f0d4"
+    }
+  ],
+  "status": "PASS_PR1094_TYPED_COMPENSATION_COMPLETE_SUPPLIER"
+}

@@ -1,0 +1,55 @@
+{
+  "ancestry": {
+    "contract_sha256": "7acd5033bc78e3f473718269edaa267c2785d84fbe95ccf6815a33dcf58c2756",
+    "coverage_contract": "pr741-sw4-v1",
+    "decimal": "0.001661634653669567",
+    "kappa": "1661634653669567/1000000000000000000",
+    "reused_ancestry": false,
+    "scope": "Required evidence presence, ordered stages and existing hash/mathematical bindings. Not execution authentication or a full multiplication proof.",
+    "selected_binding": {
+      "ancestry": {
+        "bit_input_sha256": "b9f0e5ca038abe837b0007c8fe006f366a6f02009244ac57705a8a200e2301f4",
+        "bit_result_sha256": "28795393651ef4fbbc6232eb2b32f7b39b91fbd5ea6d2315583f350714698055",
+        "complex_assembly_sha256": "596c6586fab603f942dec3bcdc7c5dbfaa9e7bf6f514488f5586d8c9968cc84a",
+        "complex_receipt_sha256": "1a5bb9dfef6017e20399e09804187a12ae939463383a968b1d3fd5a3527b3a97",
+        "decimal": "0.001661202643272239",
+        "kappa": "1661202643272239/1000000000000000000",
+        "scope": "Rebuilt finite suppliers and exact composition. All-size/compiler, common-label/mutable-source, whole-call hosting, precision/tape and analytic transfer hypotheses remain conditional; not a full Lean theorem.",
+        "status": "PASS_REBUILT_PR589_PR741_COMPOSITION"
+      },
+      "assembly_sha256": "d997beeb1f59a5dc8ea931718ec451de6e08a1bd351a80c2c085b252d20d2c0f",
+      "decimal": "0.001661634653669567",
+      "independent_sha256": "9fca46a19d5506ecc322eb6803a18dc7f6a9bd4f0c1932219a800b473b69020c",
+      "kappa": "1661634653669567/1000000000000000000",
+      "package_manifest_sha256": "e1b7998c8f7cb24f8674d250d0510f2b5b351b2ed0b35f17a17e6bacf3d9824b",
+      "price_sha256": "e8cecbb4f05ca1a115512b246530278ed86558d0fae1229d09d7d9188f5f330f",
+      "scope": "Exact finite X4 scalar/frame/phase/owner/invoice/assembly checks, bound to rebuilt PR589 and SW4 ancestry. Inherited all-size/compiler, common-label/mutable-source, whole-call hosting, precision/tape and analytic assumptions remain; not a full Lean theorem.",
+      "status": "PASS_REBUILT_PR589_PR799_COMPOSITION"
+    },
+    "status": "PASS_COMPLETE_PR799_REPLAY_COVERAGE"
+  },
+  "artifact_count": 457,
+  "native_semantic_identities": {
+    "CANONICAL-WORD.json.gz": "4ddb29fb9bc6f27e0c0fbfcf19a2a93a3496ad900d0f6d89059d0305c9576c0c",
+    "CLIFFORD-RECIPES.json": "d0768f2164d5f64a2fdbec422f1cfde4e400818792f1904ca541958377243731",
+    "CLIFFORD-REVIEW.json": "4960fd1215509b5347ef7f0092868f79aea0f8e24fb84352da9a1033e4394007",
+    "INDEPENDENT-LOCAL-REPLAY.json": "2d4680965c62db1fde1236c4857b19bf7bc97af58805e6b4109afbc452f0fdd8",
+    "LOCAL-CHECKS.json": "18f09b79835aa352f04d27041d86d1338c5ad0094b888588c1c05af2dc399ffd",
+    "LOCAL-PROGRAMS.json.gz": "9f41d53659e9be84e20c661560c5687abbf5cd0660cdecbe01ad5eb29e6b8ee3",
+    "RESIDUAL-ADAPTERS.json": "c682e9ff1b347f89771c6800f46ad98c2bb92b91c5c88452d53a9e7f0180c35f"
+  },
+  "result_sha256": "a19d34e19b50b2a1da1238da9f73549e34e25ca25255378def10b52b39cf08dd",
+  "stage_names": [
+    "leaver-manifest",
+    "slots-manifest",
+    "t16-manifest",
+    "base",
+    "cells",
+    "chain",
+    "independent-leaver",
+    "leaver-global",
+    "slots",
+    "t16"
+  ],
+  "status": "PASS_SOURCE_BOUND_COMPLETED_PR1042_BASELINE"
+}

@@ -1,0 +1,18 @@
+{
+  "controls_rejected": {
+    "extra_importable_file": "Complete prepared filename inventory",
+    "extra_provider_stage": "Complete provider stages",
+    "failed_provider_stage": "Admitted provider stage log",
+    "geometry_with_updated_hash": "Recomputed exact current PLAN",
+    "missing_provider_artifact": "Complete admitted provider artifact inventory",
+    "missing_provider_dependency": "Exact admitted core dependency pins",
+    "price_with_updated_hash": "Recomputed exact current SPEC",
+    "unbound_provider_source": "Admitted provider stage source",
+    "wrong_current_kappa": "Exact current selected exponent",
+    "wrong_current_spec_binding": "Current original SPEC binding"
+  },
+  "fixtures_preserved": true,
+  "optimized_driver_rejected": true,
+  "positive_before_after": true,
+  "status": "PASS_PR1094_BINDING_MUTATIONS"
+}
